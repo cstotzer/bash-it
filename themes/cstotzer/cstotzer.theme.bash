@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-THEME_COLOR="${yellow}"
+THEME_COLOR="${cyan}"
 
 SCM_THEME_PROMPT_PREFIX="${white}"
 SCM_THEME_PROMPT_SUFFIX="${THEME_COLOR} | "
